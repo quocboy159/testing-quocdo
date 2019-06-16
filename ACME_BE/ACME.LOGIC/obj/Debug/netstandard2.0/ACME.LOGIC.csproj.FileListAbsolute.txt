@@ -1,0 +1,9 @@
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\bin\Debug\netstandard2.0\Sources\SampleData.csv
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\bin\Debug\netstandard2.0\ACME.LOGIC.deps.json
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\bin\Debug\netstandard2.0\ACME.LOGIC.dll
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\bin\Debug\netstandard2.0\ACME.LOGIC.pdb
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\obj\Debug\netstandard2.0\ACME.LOGIC.csproj.CoreCompileInputs.cache
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\obj\Debug\netstandard2.0\ACME.LOGIC.AssemblyInfoInputs.cache
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\obj\Debug\netstandard2.0\ACME.LOGIC.AssemblyInfo.cs
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\obj\Debug\netstandard2.0\ACME.LOGIC.dll
+D:\Testing_QuocDo\ACME_BE\ACME.LOGIC\obj\Debug\netstandard2.0\ACME.LOGIC.pdb
